@@ -1,0 +1,45 @@
+{
+  "uid" : "3e4ac175d137e52a",
+  "name" : "To check whether there is at least 1 result ",
+  "fullName" : "My test.To check whether there is at least 1 result ",
+  "historyId" : "cbc2ff0d007e52b744a26028eefef100",
+  "time" : {
+    "start" : 1566832244621,
+    "stop" : 1566832247881,
+    "duration" : 3260
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+  "statusTrace" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.\n                    at Timeout._onTimeout (C:\\dev\\test\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4281:23)\n                    at ontimeout (timers.js:436:11)\n                    at tryOnTimeout (timers.js:300:5)\n                    at listOnTimeout (timers.js:263:5)\n                    at Timer.processTimers (timers.js:223:10)",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My test"
+  }, {
+    "name" : "testClass",
+    "value" : "My test"
+  }, {
+    "name" : "testMethod",
+    "value" : "To check whether there is at least 1 result "
+  }, {
+    "name" : "package",
+    "value" : "My test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3e4ac175d137e52a.json",
+  "parameterValues" : [ ]
+}

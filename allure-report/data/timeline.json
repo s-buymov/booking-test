@@ -1,0 +1,53 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "To check whether there is at least 1 result ",
+    "uid" : "f2b2e674ce25b06d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1566843624680,
+      "stop" : 1566843624795,
+      "duration" : 115
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "To check whether there is at least 1 result ",
+    "uid" : "339fe867037f12cd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1566832370582,
+      "stop" : 1566832374358,
+      "duration" : 3776
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "To check all results are from New York ",
+    "uid" : "11105c7b6c9c3699",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1566843624795,
+      "stop" : 1566843630976,
+      "duration" : 6181
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "To check all results are from New York ",
+    "uid" : "56a8c96207f739a8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1566832374359,
+      "stop" : 1566832378470,
+      "duration" : 4111
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  } ]
+}

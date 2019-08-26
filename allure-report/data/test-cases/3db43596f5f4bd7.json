@@ -1,0 +1,43 @@
+{
+  "uid" : "3db43596f5f4bd7",
+  "name" : "To check all results are from New York ",
+  "fullName" : "My test.To check all results are from New York ",
+  "historyId" : "f82668f07700ff89692b128786f4ce34",
+  "time" : {
+    "start" : 1566832320400,
+    "stop" : 1566832328609,
+    "duration" : 8209
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My test"
+  }, {
+    "name" : "testClass",
+    "value" : "My test"
+  }, {
+    "name" : "testMethod",
+    "value" : "To check all results are from New York "
+  }, {
+    "name" : "package",
+    "value" : "My test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3db43596f5f4bd7.json",
+  "parameterValues" : [ ]
+}

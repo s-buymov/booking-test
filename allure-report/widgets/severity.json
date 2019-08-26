@@ -1,0 +1,41 @@
+[ {
+  "uid" : "56a8c96207f739a8",
+  "name" : "To check all results are from New York ",
+  "time" : {
+    "start" : 1566832374359,
+    "stop" : 1566832378470,
+    "duration" : 4111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2b2e674ce25b06d",
+  "name" : "To check whether there is at least 1 result ",
+  "time" : {
+    "start" : 1566843624680,
+    "stop" : 1566843624795,
+    "duration" : 115
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11105c7b6c9c3699",
+  "name" : "To check all results are from New York ",
+  "time" : {
+    "start" : 1566843624795,
+    "stop" : 1566843630976,
+    "duration" : 6181
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "339fe867037f12cd",
+  "name" : "To check whether there is at least 1 result ",
+  "time" : {
+    "start" : 1566832370582,
+    "stop" : 1566832374358,
+    "duration" : 3776
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

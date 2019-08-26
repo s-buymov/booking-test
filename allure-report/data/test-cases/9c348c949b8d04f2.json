@@ -1,0 +1,43 @@
+{
+  "uid" : "9c348c949b8d04f2",
+  "name" : "To check whether there is at least 1 result ",
+  "fullName" : "Booking site test.To check whether there is at least 1 result ",
+  "historyId" : "993e8cc6a4b0da9415754b691426248b",
+  "time" : {
+    "start" : 1566843270473,
+    "stop" : 1566843270660,
+    "duration" : 187
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Booking site test"
+  }, {
+    "name" : "testClass",
+    "value" : "Booking site test"
+  }, {
+    "name" : "testMethod",
+    "value" : "To check whether there is at least 1 result "
+  }, {
+    "name" : "package",
+    "value" : "Booking site test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9c348c949b8d04f2.json",
+  "parameterValues" : [ ]
+}

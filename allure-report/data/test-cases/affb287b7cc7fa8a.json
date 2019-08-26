@@ -1,0 +1,45 @@
+{
+  "uid" : "affb287b7cc7fa8a",
+  "name" : "To check all results are from New York ",
+  "fullName" : "Booking site test.To check all results are from New York ",
+  "historyId" : "cada049e7f0a719813f3285b4cfd07d5",
+  "time" : {
+    "start" : 1566839451309,
+    "stop" : 1566839451384,
+    "duration" : 75
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Failed: No element found using locator: By(css selector, .xp__dates-inner xp__dates__checkin)",
+  "statusTrace" : "NoSuchElementError: No element found using locator: By(css selector, .xp__dates-inner xp__dates__checkin)\n                    at elementArrayFinder.getWebElements.then (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:814:27)\n                    at ManagedPromise.invokeCallback_ (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:1376:14)\n                    at TaskQueue.execute_ (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3084:14)\n                    at TaskQueue.executeNext_ (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:3067:27)\n                    at asyncRun (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:2927:27)\n                    at C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\selenium-webdriver\\lib\\promise.js:668:7\n                    at process._tickCallback (internal/process/next_tick.js:68:7)Error\n                    at ElementArrayFinder.applyAction_ (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:459:27)\n                    at ElementArrayFinder.(anonymous function).args [as click] (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:91:29)\n                    at ElementFinder.(anonymous function).args [as click] (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\built\\element.js:831:22)\n                    at BookingPage.setDates (C:\\dev\\test\\bookingPO.js:17:25)\n                    at UserContext.beforeAll (C:\\dev\\test\\booking.spec.js:9:19)\n                    at process._tickCallback (internal/process/next_tick.js:68:7)\n                From: Task: Run beforeAll in control flow\n                    at UserContext.<anonymous> (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasminewd2\\index.js:94:19)\n                    at attempt (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at QueueRunner.execute (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4199:10)\n                    at queueRunnerFactory (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:909:35)\n                    at UserContext.fn (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:5325:13)\n                    at attempt (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4297:26)\n                    at QueueRunner.run (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4217:20)\n                    at QueueRunner.execute (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4199:10)\n                    at queueRunnerFactory (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:909:35)\n                From asynchronous test: \n                Error\n                    at Suite.describe (C:\\dev\\test\\booking.spec.js:5:3)\n                    at addSpecsToSuite (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1107:25)\n                    at Env.describe (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:1074:7)\n                    at describe (C:\\Users\\Serj\\AppData\\Roaming\\npm\\node_modules\\protractor\\node_modules\\jasmine-core\\lib\\jasmine-core\\jasmine.js:4399:18)\n                    at Object.<anonymous> (C:\\dev\\test\\booking.spec.js:4:1)\n                    at Module._compile (internal/modules/cjs/loader.js:778:30)\n                    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n                    at Module.load (internal/modules/cjs/loader.js:653:32)\n                    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Booking site test"
+  }, {
+    "name" : "testClass",
+    "value" : "Booking site test"
+  }, {
+    "name" : "testMethod",
+    "value" : "To check all results are from New York "
+  }, {
+    "name" : "package",
+    "value" : "Booking site test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "affb287b7cc7fa8a.json",
+  "parameterValues" : [ ]
+}

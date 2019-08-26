@@ -1,0 +1,43 @@
+{
+  "uid" : "34915135909c0f4d",
+  "name" : "To check whether there is at least 1 result ",
+  "fullName" : "My test.To check whether there is at least 1 result ",
+  "historyId" : "cbc2ff0d007e52b744a26028eefef100",
+  "time" : {
+    "start" : 1566830592857,
+    "stop" : 1566830596359,
+    "duration" : 3502
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "My test"
+  }, {
+    "name" : "testClass",
+    "value" : "My test"
+  }, {
+    "name" : "testMethod",
+    "value" : "To check whether there is at least 1 result "
+  }, {
+    "name" : "package",
+    "value" : "My test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "34915135909c0f4d.json",
+  "parameterValues" : [ ]
+}

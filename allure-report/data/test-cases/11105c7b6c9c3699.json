@@ -1,0 +1,165 @@
+{
+  "uid" : "11105c7b6c9c3699",
+  "name" : "To check all results are from New York ",
+  "fullName" : "Booking site test.To check all results are from New York ",
+  "historyId" : "cada049e7f0a719813f3285b4cfd07d5",
+  "time" : {
+    "start" : 1566843624795,
+    "stop" : 1566843630976,
+    "duration" : 6181
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Booking site test"
+  }, {
+    "name" : "testClass",
+    "value" : "Booking site test"
+  }, {
+    "name" : "testMethod",
+    "value" : "To check all results are from New York "
+  }, {
+    "name" : "package",
+    "value" : "Booking site test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cd9a8bb7116f7d60",
+      "status" : "failed",
+      "statusDetails" : "Error: Timeout - Async callback was not invoked within timeout specified by jasmine.DEFAULT_TIMEOUT_INTERVAL.",
+      "time" : {
+        "start" : 1566843596492,
+        "stop" : 1566843602859,
+        "duration" : 6367
+      }
+    }, {
+      "uid" : "52bfa20cd5d01a28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566843305408,
+        "stop" : 1566843312682,
+        "duration" : 7274
+      }
+    }, {
+      "uid" : "da8997ba183f32db",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566843270660,
+        "stop" : 1566843277449,
+        "duration" : 6789
+      }
+    }, {
+      "uid" : "2e9c2f4c02415a27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566840385654,
+        "stop" : 1566840392231,
+        "duration" : 6577
+      }
+    }, {
+      "uid" : "6bbc71ae277f95f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566839991708,
+        "stop" : 1566839998566,
+        "duration" : 6858
+      }
+    }, {
+      "uid" : "7ee02b89dc92d0f3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566839931053,
+        "stop" : 1566839938917,
+        "duration" : 7864
+      }
+    }, {
+      "uid" : "9d593e99cdd39aca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566839852605,
+        "stop" : 1566839855745,
+        "duration" : 3140
+      }
+    }, {
+      "uid" : "a2feafdf7e17bc5f",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, .\\.sb-searchbox__input.sb-date-field__field.sb-date__field-svg_icon)",
+      "time" : {
+        "start" : 1566839802760,
+        "stop" : 1566839802861,
+        "duration" : 101
+      }
+    }, {
+      "uid" : "2b7cbd0fb9f7ed85",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, .sb-searchbox__input sb-date-field__field sb-date__field-svg_icon)",
+      "time" : {
+        "start" : 1566839691933,
+        "stop" : 1566839693012,
+        "duration" : 1079
+      }
+    }, {
+      "uid" : "3779562f70e159d0",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, *[id=\"\\._8x-e697\"])",
+      "time" : {
+        "start" : 1566839632561,
+        "stop" : 1566839632640,
+        "duration" : 79
+      }
+    }, {
+      "uid" : "affb287b7cc7fa8a",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, .xp__dates-inner xp__dates__checkin)",
+      "time" : {
+        "start" : 1566839451309,
+        "stop" : 1566839451384,
+        "duration" : 75
+      }
+    }, {
+      "uid" : "230c62702731217e",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: By(css selector, .xp__input-group xp__date-time)",
+      "time" : {
+        "start" : 1566839406963,
+        "stop" : 1566839407095,
+        "duration" : 132
+      }
+    }, {
+      "uid" : "7fa831f2fe8d158a",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <path id=\"obj_calendar-e2e6\" class=\"cls-1\" d=\"M112 16H96V8h-8v8H40V8h-8v8H16c-4.4 0-8 3.9-8 8.7v86.6c0 4.8 3.6 8.7 8 8.7h96c4.4 0 8-3.9 8-8.7V24.7c0-4.8-3.6-8.7-8-8.7zm0 95.3a1.1 1.1 0 0 1-.2.7H16.2a1.1 1.1 0 0 1-.2-.7V40h96zM44 68H32V56h12zm0 28H32V84h12zm26-28H58V56h12zm0 28H58V84h12zm26 0H84V84h12zm0-28H84V56h12z\"></path> is not clickable at point (397, 258). Other element would receive the click: <svg aria-hidden=\"true\" class=\"bk-icon -experiments-calendar sb-date-picker_icon-svg\" fill=\"#BDBDBD\" height=\"20\" width=\"20\" viewBox=\"0 0 128 128\" role=\"presentation\">...</svg>\n                  (Session info: chrome=76.0.3809.100)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'PC', ip: '192.168.0.102', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1566839335327,
+        "stop" : 1566839337538,
+        "duration" : 2211
+      }
+    }, {
+      "uid" : "2a3fc8d6f60b842f",
+      "status" : "failed",
+      "statusDetails" : "Failed: element click intercepted: Element <path id=\"obj_calendar-e2e6\" class=\"cls-1\" d=\"M112 16H96V8h-8v8H40V8h-8v8H16c-4.4 0-8 3.9-8 8.7v86.6c0 4.8 3.6 8.7 8 8.7h96c4.4 0 8-3.9 8-8.7V24.7c0-4.8-3.6-8.7-8-8.7zm0 95.3a1.1 1.1 0 0 1-.2.7H16.2a1.1 1.1 0 0 1-.2-.7V40h96zM44 68H32V56h12zm0 28H32V84h12zm26-28H58V56h12zm0 28H58V84h12zm26 0H84V84h12zm0-28H84V56h12z\"></path> is not clickable at point (397, 258). Other element would receive the click: <svg aria-hidden=\"true\" class=\"bk-icon -experiments-calendar sb-date-picker_icon-svg\" fill=\"#BDBDBD\" height=\"20\" width=\"20\" viewBox=\"0 0 128 128\" role=\"presentation\">...</svg>\n                  (Session info: chrome=76.0.3809.100)\n                Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'\n                System info: host: 'PC', ip: '192.168.0.102', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_181'\n                Driver info: driver.version: unknown",
+      "time" : {
+        "start" : 1566839247330,
+        "stop" : 1566839247399,
+        "duration" : 69
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11105c7b6c9c3699.json",
+  "parameterValues" : [ ]
+}

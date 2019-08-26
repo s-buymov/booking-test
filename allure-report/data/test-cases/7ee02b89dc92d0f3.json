@@ -1,0 +1,43 @@
+{
+  "uid" : "7ee02b89dc92d0f3",
+  "name" : "To check all results are from New York ",
+  "fullName" : "Booking site test.To check all results are from New York ",
+  "historyId" : "cada049e7f0a719813f3285b4cfd07d5",
+  "time" : {
+    "start" : 1566839931053,
+    "stop" : 1566839938917,
+    "duration" : 7864
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Booking site test"
+  }, {
+    "name" : "testClass",
+    "value" : "Booking site test"
+  }, {
+    "name" : "testMethod",
+    "value" : "To check all results are from New York "
+  }, {
+    "name" : "package",
+    "value" : "Booking site test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7ee02b89dc92d0f3.json",
+  "parameterValues" : [ ]
+}
