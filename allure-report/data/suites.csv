@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Aug 26 21:20:24 EEST 2019","Mon Aug 26 21:20:24 EEST 2019","115","","Booking site test","","Booking site test","To check whether there is at least 1 result ","To check whether there is at least 1 result ",""
-"passed","Mon Aug 26 18:12:50 EEST 2019","Mon Aug 26 18:12:54 EEST 2019","3776","","My test","","My test","To check whether there is at least 1 result ","To check whether there is at least 1 result ",""
-"passed","Mon Aug 26 21:20:24 EEST 2019","Mon Aug 26 21:20:30 EEST 2019","6181","","Booking site test","","Booking site test","To check all results are from New York ","To check all results are from New York ",""
-"passed","Mon Aug 26 18:12:54 EEST 2019","Mon Aug 26 18:12:58 EEST 2019","4111","","My test","","My test","To check all results are from New York ","To check all results are from New York ",""
